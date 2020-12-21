@@ -1,0 +1,10 @@
+.body_background {
+    background-image: url("BG.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    color:blue;
+    font-size:40px;
+    text-decoration: underline red;
+}
